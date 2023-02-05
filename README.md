@@ -2,7 +2,13 @@
 
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Hangman game that consists friendly user interface with colorful lines . There is 5 available topics and an option to choose random word from any topic.Proram consists of 5 python scripts/modules: <br />
+Main.py - the main file where other modules intagrated. This file represents logic of a game and launch a program.<br />
+Startmenu.py - responsible for start menu of a game where user choose topic and start to play.<br />
+topic.py - this module contains available topics and words,with its help user picks a topic.<br />
+play_loop.py - when game ends this module ask whether user wants to continue a game or not.<br />
+plus.py - counts left tries and shows pictures when wrong letter is entered.<br />
+
 <br />
 
 
