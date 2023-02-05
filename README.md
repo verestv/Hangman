@@ -25,8 +25,9 @@ plus.py - counts left tries and shows pictures when wrong letter is entered.<br 
 
 <p align="center">
 
-Action:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Playing:  <br/>
+![Screenshot 2023-02-05 150229](https://user-images.githubusercontent.com/94048443/216817995-c1544d55-9740-4a2f-acdf-b69394431c06.png)
+
 </p>
 
 <!--
